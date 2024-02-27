@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Sebastian Olaran</h1>
 <h3 align="center">Soy un estudiante de ingenieria informatica apasasionado por la programacion</h3>
 
-- 🔭 Actualmente estoy trabajando en un projecto asociado a [Eccommerce-Dashboard](https://github.com/sebastianolaran/ecommerce-fullstack)
+- 🔭 Actualmente estoy trabajando en un projecto asociado a [E commerce-Dashboard](https://github.com/sebastianolaran/ecommerce-fullstack)
 
 - 🌱 Me encuentro perfeccionando en **Java y Angular**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
